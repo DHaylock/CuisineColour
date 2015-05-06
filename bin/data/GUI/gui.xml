@@ -1,0 +1,20 @@
+<Widget>
+    <Kind>17</Kind>
+    <Name>Auto Run</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>8</Kind>
+    <Name>Change_Timer</Name>
+    <Value>1000.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>Instagram Query Terms</Name>
+    <Value></Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>Twitter Query Terms</Name>
+    <Value></Value>
+</Widget>

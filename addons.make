@@ -1,0 +1,11 @@
+ofxThreadedImageLoader
+ofxXmlSettings
+ofxHttpUtils
+ofxInstagram
+ofxIO
+ofxJSON
+ofxOAuth
+ofxSimpleTimer
+ofxSyphon
+ofxTween
+ofxUI
