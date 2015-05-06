@@ -182,13 +182,13 @@ dependencies: \
   ../../../addons/ofxInstagram/libs/libcurl/include/curl/easy.h \
   ../../../addons/ofxInstagram/libs/libcurl/include/curl/multi.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxThreadedImageLoader/src/ofxThreadedImageLoader.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageSelector.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageSelector.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxSyphon/src/ofxSyphon.h \
   ../../../addons/ofxSyphon/src/ofxSyphonClient.h \
   ../../../addons/ofxSyphon/src/ofxSyphon.h \
   ../../../addons/ofxSyphon/src/ofxSyphonServer.h \
   ../../../addons/ofxSyphon/src/ofxSyphonServerDirectory.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ofxTwitter.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ofxTwitter.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxOAuth/src/ofxOAuth.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/../../../addons/ofxOAuth/libs/liboauth/include/oauth.h \
   ../../../libs/poco/include/Poco/String.h \
@@ -223,7 +223,7 @@ dependencies: \
   ../../../libs/poco/include/Poco/Net/HTTPResponse.h \
   ../../../libs/poco/include/Poco/Net/HTTPCookie.h \
   ../../../addons/ofxOAuth/src/ofxOAuthVerifierCallbackInterface.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageController.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageController.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxTween/src/ofxTween.h \
   ../../../libs/poco/include/Poco/Delegate.h \
   ../../../libs/poco/include/Poco/FunctionDelegate.h \
@@ -240,7 +240,7 @@ dependencies: \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxTween/src/Easings/ofxEasingQuad.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxTween/src/Easings/ofxEasingQuint.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxTween/src/Easings/ofxEasingSine.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/FileWatcher.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/FileWatcher.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/../../../addons/ofxIO/src/ofxIO.h \
   ../../../addons/ofxIO/libs/Poco/Foundation/include/Poco/DirectoryWatcher.h \
   ../../../libs/poco/include/Poco/BasicEvent.h \
@@ -262,7 +262,7 @@ dependencies: \
   ../../../addons/ofxIO/libs/ofxIO/include/ofx/IO/PathFilterCollection.h \
   ../../../addons/ofxIO/libs/ofxIO/include/ofx/IO/RegexPathFilter.h \
   ../../../addons/ofxIO/libs/ofxIO/include/ofx/IO/SearchPath.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImagePool.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImagePool.h \
   /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/../../../addons/ofxUI/src/ofxUI.h \
   ../../../addons/ofxUI/src/ofxUIOFWrapper.h \
   ../../../addons/ofxUI/src/ofxUIUtils.h \

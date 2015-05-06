@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/FileWatcher.cpp \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/FileWatcher.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/FileWatcher.cpp \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/FileWatcher.h \
   ../../../libs/openFrameworks/ofMain.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \

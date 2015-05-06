@@ -180,4 +180,4 @@ dependencies: \
   ../../../addons/ofxSyphon/libs/Syphon/lib/osx/Syphon.framework/Headers/SyphonServer.h \
   ../../../addons/ofxSyphon/libs/Syphon/lib/osx/Syphon.framework/Headers/SyphonClient.h \
   ../../../addons/ofxSyphon/libs/Syphon/lib/osx/Syphon.framework/Headers/SyphonImage.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/../../../addons/ofxSyphon/libs/Syphon/src/SyphonNameboundClient.h
+  /Users/david/Desktop/of_v0.8.4_osx_release/addons/ofxSyphon/libs/Syphon/src/SyphonNameboundClient.h

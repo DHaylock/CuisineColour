@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageController.cpp \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageController.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageSelector.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageController.cpp \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageController.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageSelector.h \
   ../../../libs/openFrameworks/ofMain.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImagePool.cpp \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImagePool.h \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImagePool.cpp \
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImagePool.h \
   ../../../libs/openFrameworks/ofMain.h \
   ../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../libs/glew/include/GL/glew.h \
@@ -171,4 +171,4 @@ dependencies: \
   ../../../libs/openFrameworks/video/ofQTKitPlayer.h \
   ../../../libs/openFrameworks/3d/ofCamera.h \
   ../../../libs/openFrameworks/3d/ofEasyCam.h \
-  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CusineColor/src/ImageSelector.h
+  /Users/david/Desktop/of_v0.8.4_osx_release/apps/myApps/CuisineColour/src/ImageSelector.h
